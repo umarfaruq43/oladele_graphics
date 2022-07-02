@@ -19145,9 +19145,10 @@ section {
 }
 
 .testimonial {
-  background: #a70ff6 url("../images/testimonial-bg.svg");
+  background: #4f474e;
   padding: 100px 0 70px 0;
   background-size: cover;
+  color:#efc862;
 }
 
 @media (max-width: 991px) {
@@ -19467,8 +19468,5 @@ section {
   .flipster-custom-nav-link.active {
   background: #f1efef;
 }
-
-
-
 
 /*# sourceMappingURL=maps/style.css.map */
