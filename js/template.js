@@ -3,12 +3,12 @@
   $(function () {
     $(".owl-carousel-projects").owlCarousel({
       loop: true,
-      stagePadding: 1,
+      stagePadding: 10,
       margin: 5,
       nav: false,
       responsive: {
         0: {
-          items: 2,
+          items: 1,
         },
         600: {
           items: 3,
